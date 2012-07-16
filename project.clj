@@ -1,5 +1,5 @@
 (defproject issues-dashboard "1.0.0-SNAPSHOT"
-  :description "A Restful web app which shows a useful summary of ZenDesk information"
+  :description "A Restful web app which shows a useful summary of Zendesk information"
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [org.clojure/data.json "0.1.2"]
                  [clj-http "0.4.3"]
